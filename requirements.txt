@@ -1,0 +1,6 @@
+rich
+psutil
+plotext
+# Optional: NVIDIA GPU monitoring (install only if you need GPU stats)
+# Recommended package name: nvidia-ml-py3
+nvidia-ml-py3
